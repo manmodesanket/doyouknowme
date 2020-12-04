@@ -4,7 +4,7 @@ const chalk = require('chalk');
 var username = readline.question("Enter your username ");
 
 console.log();
-console.log(chalk.green("------------ Welcome to the F.R.I.E.N.D.S quiz " + username +"! ---------------"));
+console.log(chalk.green("------------ Welcome to the quiz" + username +"! ---------------"));
 
 
 // variables
