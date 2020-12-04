@@ -1,0 +1,15 @@
+{
+  "name": "doyouknowme",
+  "version": "1.0.0",
+  "description": "neogcamp-cli-app-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanket",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
